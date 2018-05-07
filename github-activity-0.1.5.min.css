@@ -95,7 +95,7 @@ span.gha-time{
     background:-ms-linear-gradient(top,#111 0,#141414 100%);
     background:linear-gradient(to bottom,#111 0,#141414 100%);
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#000fff', endColorstr='#141414', GradientType=0);
-    color:#b6a961;
+    color:#87cefa;
     font-size:13px
 }
 .gha-footer a{
@@ -209,11 +209,11 @@ span.gha-time{
     float:left;
     margin:0 auto;
     padding:6px 10px 5px;
-    color:#b6a961;
+    color: #87cefa;
     font-size:20px
 }
 .gha-user-info a{
-    color:#b6a961
+    color:#87cefa
 }
 .gha-user-info p a{
     font-weight:100
