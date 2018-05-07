@@ -48,7 +48,7 @@ span.gha-time{
     font-size:12px
 }
 .gha-feed a{
-    color: #87cefa;
+    color: #61c1c4;
     text-decoration:none;
     font-weight:700
 }
@@ -95,7 +95,7 @@ span.gha-time{
     background:-ms-linear-gradient(top,#111 0,#141414 100%);
     background:linear-gradient(to bottom,#111 0,#141414 100%);
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#000fff', endColorstr='#141414', GradientType=0);
-    color:#87cefa;
+    color:#61c1c4;
     font-size:13px
 }
 .gha-footer a{
@@ -209,11 +209,11 @@ span.gha-time{
     float:left;
     margin:0 auto;
     padding:6px 10px 5px;
-    color: #87cefa;
+    color: #61c1c4;
     font-size:20px
 }
 .gha-user-info a{
-    color:#87cefa
+    color:#61c1c4
 }
 .gha-user-info p a{
     font-weight:100
