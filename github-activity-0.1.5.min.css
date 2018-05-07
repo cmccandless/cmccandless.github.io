@@ -173,6 +173,7 @@ span.gha-time{
 }
 .gha-message{
     display:inline-block;
+    color: #999;
     float:left;
     width:calc(100% - 50px)
 }
